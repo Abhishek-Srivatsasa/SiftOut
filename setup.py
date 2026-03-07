@@ -9,7 +9,7 @@ setup(
     packages=find_packages(),
     author="Abhishek Srivatsasa Guntur",
     author_email="gabhisheksrivatsasa@gmail.com",
-    description="A simple janitorial tool for cleaning up your workspace",
+    description="A smart, automated workspace cleaner and security hardener for Python projects",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/Abhishek-Srivatsasa/SiftOut",
