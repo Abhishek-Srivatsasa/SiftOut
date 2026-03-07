@@ -1,6 +1,6 @@
 # Siftout
 
-A simple janitorial tool for cleaning up your workspace.
+A smart, automated workspace cleaner and security hardener for Python projects.
 
 ## Installation
 
