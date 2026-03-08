@@ -1,4 +1,4 @@
-# 🧹 Siftout
+# Siftout
 
 > **Smart, automated workspace cleaner and security hardener for Python projects.**
 
