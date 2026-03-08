@@ -1,7 +1,14 @@
 # Siftout
 
 > **Smart, automated workspace cleaner and security hardener for Python projects.**
+<div align="center">
 
+<!-- Logo -->
+<p align="center">
+  <img src="https://chronomap-logo.netlify.app/logo.png" alt="ChronoMap" width="180">
+</p>
+
+Once you image is online on a webpage, add this type of line on your readme.md's first line
 [![PyPI version](https://img.shields.io/pypi/v/siftout?color=blue)](https://pypi.org/project/siftout/)
 [![Python versions](https://img.shields.io/pypi/pyversions/siftout)](https://pypi.org/project/siftout/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
